@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Science Bindu",
+  "description": "A modern scientific website exploring the connection between Science and Al-Quran, featuring blogs, quizzes, and user progress tracking. Created by Muntasir Al Anim.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
